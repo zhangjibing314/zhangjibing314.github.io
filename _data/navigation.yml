@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "jekyll教程"
+    url: https://www.jekyll.com.cn/docs/ 
+  - title: "minimal-mistakes指南"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "关于"
+    url: /about/
