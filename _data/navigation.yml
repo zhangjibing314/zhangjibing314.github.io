@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "日志"
+    url: https://www.zhangjibing314.github.io/blog
   - title: "jekyll教程"
     url: https://www.jekyll.com.cn/docs/ 
   - title: "minimal-mistakes指南"
