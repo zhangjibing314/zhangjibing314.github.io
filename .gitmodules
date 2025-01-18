@@ -4,3 +4,6 @@
 [submodule "themes/tree"]
 	path = themes/tree
 	url = https://github.com/wujun234/hexo-theme-tree.git
+[submodule "themes/Wikitten"]
+	path = themes/Wikitten
+	url = https://github.com/zthxxx/hexo-theme-Wikitten.git
