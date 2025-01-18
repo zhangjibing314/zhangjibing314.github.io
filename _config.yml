@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: '张继兵的日志世界'  # 网站标题
+title: '张继兵的日志'  # 网站标题
 subtitle: "zhangjibing's blog" # 副标题
 description: '' # 网站描述
 keywords: # 网站关键词
@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai' # 时区
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://zhangjibing314.github.io
-permalink: :year/:month/:day/:title/
+permalink: :wiki/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -29,6 +29,12 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - README.md
+  - '_posts/**/embed_page'
+
+# create sitemap
+sitemap:
+  path: sitemap.xml
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -96,7 +102,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Wikitten #landscape
+theme: Wikitten # default landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
