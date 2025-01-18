@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的网站
-subtitle: ''
-description: ''
-keywords:
-author: zhangsir
+title: '张继兵的日志世界'  # 网站标题
+subtitle: "zhangjibing's blog" # 副标题
+description: '' # 网站描述
+keywords: # 网站关键词
+author: zhangjibing
 language: zh
-timezone: ''
+timezone: 'Asia/Shanghai' # 时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://zhangjibing314.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: book #landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
