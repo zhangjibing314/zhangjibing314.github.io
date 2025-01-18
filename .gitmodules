@@ -1,6 +1,3 @@
-[submodule "themes/Wikitten"]
-	path = themes/Wikitten
-	url = https://github.com/zthxxx/hexo-theme-Wikitten.git
 [submodule "source/_posts/blog"]
 	path = source/_posts/blog
 	url = https://github.com/zhangjibing314/blog
