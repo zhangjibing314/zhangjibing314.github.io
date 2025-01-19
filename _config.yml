@@ -6,9 +6,9 @@
 title: '张继兵的日志'  # 网站标题
 subtitle: "zhangjibing's blog" # 副标题
 description: '' # 网站描述
-keywords: # 网站关键词
+keywords: 博客 帖子 # 网站关键词
 author: zhangjibing
-language: zh
+language: zh-cn
 timezone: 'Asia/Shanghai' # 时区
 
 # URL
