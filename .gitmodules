@@ -1,3 +1,9 @@
 [submodule "source/_posts/blog"]
 	path = source/_posts/blog
 	url = https://github.com/zhangjibing314/blog
+[submodule "source/_posts/study-notes"]
+	path = source/_posts/study-notes
+	url = https://github.com/zhangjibing314/study-notes.git
+[submodule "source/_posts/tools"]
+	path = source/_posts/tools
+	url = https://github.com/zhangjibing314/tools
